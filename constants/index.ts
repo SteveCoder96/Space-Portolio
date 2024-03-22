@@ -82,19 +82,16 @@ export const Skill_data = [
   
   export const Socials = [
     {
-      name: "Discord",
-      src: "/instagram.svg",
+      name: "Whatsapp",
+      src: "/whatsapp.png",
+      link:"https://wa.me/8111885784?text=Hola%20buen%20día,%20quiero%20hacer%20una%20cotización%20de%20página%20web"
     },
     {
-      name: "Facebook",
-      src: "/facebook.svg",
-    },
-    {
-      name: "Instagram",
-      src: "/discord.svg",
-    },
+      name:"Instagram",
+      src:"/instagram.png",
+      link:""
+    }
   ];
-  
   
   
   export const Frontend_skill = [
